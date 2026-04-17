@@ -81,3 +81,54 @@ Se evaluaron con:
 4. F1-score
 5. ROC-AUC
 6. Matriz de confusión
+
+
+## Consideraciones éticas sobre el uso de Inteligencia Artificial: Durante el desarrollo de este proyecto se utilizó inteligencia artificial como una herramienta de apoyo para fortalecer el proceso de aprendizaje y mejorar la calidad técnica del trabajo. Su uso se realizó de manera responsable, crítica y complementaria, sin sustituir el rol activo de los estudiantes en la construcción del conocimiento.
+
+### Uso de la inteligencia artificial en el proyecto: La inteligencia artificial fue utilizada principalmente como:
+- herramienta de apoyo en la estructuración del proyecto bajo la metodología CRISP-DM
+- guía para la organización de carpetas y arquitectura del repositorio
+- asistencia en la escritura y optimización de código
+- ayuda en la gestión de rutas y manejo eficiente de archivos dentro del proyecto
+- apoyo en la redacción de algunos apartados técnicos
+
+Es importante resaltar que la IA no tomó decisiones autónomas sobre el desarrollo del proyecto. Su uso estuvo siempre mediado por la interpretación, validación y criterio de los estudiantes.
+
+
+### Rol de los estudiantes
+Nosotros como estudiantes tuvimos un papel central y activo en todo el proceso, incluyendo:
+- la comprensión del problema de negocio
+- el análisis exploratorio de los datos (EDA)
+- la identificación de problemas de calidad de datos
+- la toma de decisiones sobre limpieza, transformación y selección de variables
+- el diseño del flujo del proyecto
+- la selección, entrenamiento y evaluación de los modelos
+- la interpretación de resultados y generación de conclusiones
+
+Además, fuimos responsables de:
+- proporcionar a la IA el contexto necesario (archivos, datos, instrucciones)
+- validar cada sugerencia antes de implementarla
+- adaptar el código a las necesidades específicas del proyecto
+- garantizar la coherencia metodológica del trabajo
+
+
+### Relación entre estudiantes e inteligencia artificial
+El uso de la IA se dio como una herramienta colaborativa, donde:
+- los estudiantes definieron el problema y los objetivos
+- la IA ofreció sugerencias técnicas y estructurales
+- los estudiantes evaluaron, ajustaron y decidieron qué implementar
+
+En ningún momento se utilizó la IA como sustituto del aprendizaje, sino como un medio para:
+- mejorar la eficiencia
+- reducir errores técnicos
+- fortalecer la organización del proyecto
+- explorar buenas prácticas en desarrollo de proyectos de ciencia de datos
+
+
+### Consideración final
+El uso de inteligencia artificial en este proyecto se enmarca dentro de un enfoque ético y académico, donde:
+- no se delegó la responsabilidad del aprendizaje
+- no se automatizó la toma de decisiones críticas
+- se mantuvo el control humano sobre todo el proceso
+
+En este sentido, la IA fue utilizada como una herramienta de apoyo para potenciar el aprendizaje, sin reemplazar el análisis, la interpretación y el juicio profesional de los estudiantes.
