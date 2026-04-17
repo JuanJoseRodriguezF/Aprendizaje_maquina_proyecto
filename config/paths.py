@@ -26,14 +26,8 @@ Y_TEST_FILE = PROCESSED_DIR / "y_test.csv"
 
 
 def ensure_project_dirs() -> None:
-    dirs = [
-        RAW_DIR,
-        INTERIM_DIR,
-        PROCESSED_DIR,
-        MODELS_DIR,
-        FIGURES_DIR,
-        DASHBOARD_DIR,
-        PRESENTATION_DIR,
-    ]
-    for d in dirs:
-        d.mkdir(parents=True, exist_ok=True)
+    for path in [
+        RAW_DIR, INTERIM_DIR, PROCESSED_DIR,
+        MODELS_DIR, FIGURES_DIR, DASHBOARD_DIR, PRESENTATION_DIR
+    ]:
+        path.mkdir(parents=True, exist_ok=True)
